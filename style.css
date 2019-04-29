@@ -10,12 +10,7 @@ header {
     background-size: cover;
     color: white;
 }
-a 
-{
-    color: white;
-    text-decoration: none;
-    
-}
+
 .about{
     height: 300vh;
     display: flex;
@@ -44,9 +39,17 @@ a
     align-items: center;
     color: white;
 }
+a> img
+{
+    height: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
 .about-pages div> img {
     height: 5vh;
-   
     display: flex;
     flex-direction: column;
     justify-content: space-around;
