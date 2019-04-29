@@ -44,6 +44,15 @@ a
     align-items: center;
     color: white;
 }
+.about-pages div> img {
+    height: 5vh;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
     
 .about-pages div> p {
      width: 80%;
