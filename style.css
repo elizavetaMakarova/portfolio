@@ -48,6 +48,12 @@ a> img
     align-items: center;
 
 }
+a> p
+{
+    color: white;
+    text-decoration: none;
+
+}
 .about-pages div> img {
     height: 5vh;
     display: flex;
