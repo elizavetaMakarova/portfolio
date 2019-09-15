@@ -91,3 +91,6 @@ footer {
     background-color:bisque;
     color: white;
 }
+li {
+ align-items: center;
+}
